@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>生物与医药公司</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>生物与医药公司</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">首页</a></li>
+                <li><a href="#about">关于我们</a></li>
+                <li><a href="#products">产品与服务</a></li>
+                <li><a href="#rd">研究与开发</a></li>
+                <li><a href="#news">新闻中心</a></li>
+                <li><a href="#partners">合作伙伴</a></li>
+                <li><a href="#careers">招贤纳士</a></li>
+                <li><a href="#contact">联系我们</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>欢迎来到生物与医药公司</h2>
+        <p>我们致力于提供优质的生物医药产品和服务。</p>
+    </section>
+
+    <section id="about">
+        <h2>关于我们</h2>
+        <p>公司介绍、企业文化、管理团队、企业资质和荣誉。</p>
+    </section>
+
+    <section id="products">
+        <h2>产品与服务</h2>
+        <h3>药品</h3>
+        <p>详细介绍公司的药品产品。</p>
+        <h3>医疗设备</h3>
+        <p>详细介绍公司的医疗设备。</p>
+        <h3>健康产品</h3>
+        <p>详细介绍公司的健康产品。</p>
+        <h3>技术服务</h3>
+        <p>详细介绍公司提供的技术服务。</p>
+    </section>
+
+    <section id="rd">
+        <h2>研究与开发</h2>
+        <p>介绍公司的研究领域、研发团队、研发成果和临床试验。</p>
+    </section>
+
+    <section id="news">
+        <h2>新闻中心</h2>
+        <p>公司新闻、行业动态、媒体报道、活动信息。</p>
+    </section>
+
+    <section id="partners">
+        <h2>合作伙伴</h2>
+        <p>战略合作、供应商、合作案例。</p>
+    </section>
+
+    <section id="careers">
+        <h2>招贤纳士</h2>
+        <p>招聘信息、公司福利、职业发展。</p>
+    </section>
+
+    <section id="contact">
+        <h2>联系我们</h2>
+        <p>联系方式、在线留言、地图。</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 生物与医药公司</p>
+    </footer>
+</body>
+</html>
